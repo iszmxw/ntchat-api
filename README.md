@@ -107,6 +107,18 @@ wine ~/ntchat@0.1.13/fastapi_example/main.py
 
 
 
+## 实现调用创建实例
+- 获取到了一个 guid
+
+## 调用打开微信接口
+- 用刚刚获取的 guid 去调用
+
+<img width="1512" alt="image" src="https://github.com/iszmxw/ntchat-api/assets/31272102/fbe90c90-fbbc-40fd-ad5a-d1349de15415">
+
+## 登录成功了
+
+- 可以调用其他的业务接口开始你的 bot 的
+
 
 
 
